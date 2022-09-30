@@ -848,21 +848,23 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Code Editors
 
-- [Emacs](https://github.com/catppuccin/emacs)
-- [Geany](https://github.com/catppuccin/geany)
-- [Gedit](https://github.com/catppuccin/gedit)
-- [Helix](https://github.com/catppuccin/helix)
-- [Insomnia](https://github.com/catppuccin/insomnia)
-- [JetBrains](https://github.com/catppuccin/jetbrains)
-- [Kakoune](https://github.com/catppuccin/kakoune)
-- [Lapce](https://github.com/catppuccin/lapce)
-- [Micro](https://github.com/catppuccin/micro)
-- [Neovim](https://github.com/catppuccin/nvim)
-- [Sublime Text](https://github.com/catppuccin/sublime-text)
-- [Vim](https://github.com/catppuccin/vim)
-- [Visual Studio Code](https://github.com/catppuccin/vscode)
-- [Visual Studio](https://github.com/catppuccin/visual-studio)
-- [Xcode](https://github.com/catppuccin/xcode)
+| Editor                                                       | Version |
+|--------------------------------------------------------------|---------|
+| [Emacs](https://github.com/catppuccin/emacs)                 | 0.1.0   |
+| [Geany](https://github.com/catppuccin/geany)                 | 0.2.0   |
+| [Gedit](https://github.com/catppuccin/gedit)                 | 0.1.0   |
+| [Helix](https://github.com/catppuccin/helix)                 | 0.2.0   |
+| [Insomnia](https://github.com/catppuccin/insomnia)           | 0.1.0   |
+| [JetBrains](https://github.com/catppuccin/jetbrains)         | 0.1.0   |
+| [Kakoune](https://github.com/catppuccin/kakoune)             | 0.2.0   |
+| [Lapce](https://github.com/catppuccin/lapce)                 | 0.1.0   |
+| [Micro](https://github.com/catppuccin/micro)                 | 0.2.0   |
+| [Neovim](https://github.com/catppuccin/nvim)                 | 0.2.0   |
+| [Sublime Text](https://github.com/catppuccin/sublime-text)   | 0.2.0   |
+| [Vim](https://github.com/catppuccin/vim)                     | 0.2.0   |
+| [Visual Studio Code](https://github.com/catppuccin/vscode)   | 0.2.0   |
+| [Visual Studio](https://github.com/catppuccin/visual-studio) | 0.1.0   |
+| [Xcode](https://github.com/catppuccin/xcode)                 | 0.1.0   |
 
 #### Development
 
